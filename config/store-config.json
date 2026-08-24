@@ -1,494 +1,6 @@
 {
-  "PRODUCTS": {
-    "1778238518007": {
-      "name": "Polo (t-shirt-short)",
-      "price": 4000,
-      "description": "",
-      "category": "",
-      "stock": 0,
-      "featured": false,
-      "availableColors": [
-        "أسود",
-        "رمادي"
-      ],
-      "availableSizes": [
-        "S",
-        "M",
-        "L"
-      ],
-      "ageRanges": [],
-      "colorImages": {
-        "أسود": {
-          "images": [
-            "https://raw.githubusercontent.com/one-wil/sanix-dz/main/images/product-1778238518007-أسود-1778238812961-Messenger-creation-6EA5AF67-8692-4E49-B8E8-0CA2B0BC96CF.jpeg"
-          ],
-          "ageRanges": [
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "M"
-            },
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "L"
-            }
-          ]
-        },
-        "رمادي": {
-          "images": [
-            "https://raw.githubusercontent.com/one-wil/sanix-dz/main/images/product-1778238518007-رمادي-1778238854917-Messenger-creation-37FFDF3B-1672-4523-9137-8D369929585F.jpeg"
-          ],
-          "ageRanges": [
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "S"
-            },
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "M"
-            },
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "L"
-            }
-          ]
-        }
-      },
-      "sizeGuide": {
-        "enabled": true,
-        "guide": {
-          "S": {
-            "heightFrom": 160,
-            "heightTo": 170,
-            "weightFrom": 50,
-            "weightTo": 60
-          },
-          "M": {
-            "heightFrom": 170,
-            "heightTo": 177,
-            "weightFrom": 60,
-            "weightTo": 75
-          },
-          "L": {
-            "heightFrom": 178,
-            "heightTo": 185,
-            "weightFrom": 69,
-            "weightTo": 80
-          }
-        }
-      },
-      "createdAt": "2026-05-08T11:08:38.007Z",
-      "image": "https://raw.githubusercontent.com/one-wil/sanix-dz/main/images/product-1778238518007-1778238752545-Messenger-creation-37FFDF3B-1672-4523-9137-8D369929585F.jpeg",
-      "updatedAt": "2026-08-21T09:42:36.522Z"
-    },
-    "1778239126878": {
-      "name": "T-shirt ",
-      "price": 1500,
-      "description": "",
-      "category": "",
-      "stock": 0,
-      "featured": false,
-      "availableColors": [
-        "أبيض",
-        "أسود"
-      ],
-      "availableSizes": [
-        "S",
-        "M",
-        "L"
-      ],
-      "ageRanges": [],
-      "colorImages": {
-        "أبيض": {
-          "images": [
-            "https://raw.githubusercontent.com/one-wil/sanix-dz/main/images/product-1778239126878-أبيض-1778239631074-Messenger-creation-408051E2-5D87-46C2-96F2-DBAC792167FB.jpeg"
-          ],
-          "ageRanges": [
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "S"
-            },
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "M"
-            },
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "L"
-            }
-          ]
-        },
-        "أسود": {
-          "images": [
-            "https://raw.githubusercontent.com/one-wil/sanix-dz/main/images/product-1778239126878-أسود-1778239655886-Messenger-creation-2437459D-A810-4853-B647-DB2C2D0BD6EC.jpeg"
-          ],
-          "ageRanges": [
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "S"
-            },
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "M"
-            },
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "L"
-            }
-          ]
-        }
-      },
-      "sizeGuide": {
-        "enabled": false,
-        "guide": {}
-      },
-      "createdAt": "2026-05-08T11:18:46.878Z",
-      "image": "https://raw.githubusercontent.com/one-wil/sanix-dz/main/images/product-1778239126878-1778239561305-Messenger-creation-2437459D-A810-4853-B647-DB2C2D0BD6EC.jpeg",
-      "updatedAt": "2026-08-21T09:31:36.950Z"
-    },
-    "1778244770962": {
-      "name": "T-shirt sanix",
-      "price": 2300,
-      "description": "",
-      "category": "",
-      "stock": 0,
-      "featured": false,
-      "availableColors": [
-        "أبيض",
-        "أسود"
-      ],
-      "availableSizes": [
-        "S",
-        "M"
-      ],
-      "ageRanges": [],
-      "colorImages": {
-        "أبيض": {
-          "images": [
-            "https://raw.githubusercontent.com/one-wil/sanix-dz/main/images/product-1778244770962-أبيض-1778244898209-Messenger-creation-DBC61123-8E41-4C75-933B-A5397461B678.jpeg"
-          ],
-          "ageRanges": [
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "S"
-            },
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "M"
-            }
-          ]
-        },
-        "أسود": {
-          "images": [
-            "https://raw.githubusercontent.com/one-wil/sanix-dz/main/images/product-1778244770962-أسود-1778244929756-Messenger-creation-DBC61123-8E41-4C75-933B-A5397461B678.jpeg"
-          ],
-          "ageRanges": [
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "S"
-            },
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "M"
-            }
-          ]
-        }
-      },
-      "sizeGuide": {
-        "enabled": false,
-        "guide": {}
-      },
-      "createdAt": "2026-05-08T12:52:50.962Z",
-      "image": "https://raw.githubusercontent.com/one-wil/sanix-dz/main/images/product-1778244770962-1778244812749-Messenger-creation-DBC61123-8E41-4C75-933B-A5397461B678.jpeg",
-      "updatedAt": "2026-05-08T12:54:45.269Z"
-    },
-    "1787306198490": {
-      "name": "Baggy joggers polo",
-      "price": 3000,
-      "description": "",
-      "category": "",
-      "stock": 0,
-      "featured": false,
-      "availableColors": [
-        "أسود",
-        "رمادي"
-      ],
-      "availableSizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "ageRanges": [],
-      "colorImages": {
-        "أحمر": {
-          "images": [
-            "https://raw.githubusercontent.com/one-wil/sanix-dz/main/images/product-1787306198490-أحمر-1787306488014-IMG-1795.jpeg"
-          ],
-          "ageRanges": [
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "S"
-            },
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "M"
-            },
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "L"
-            },
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "XL"
-            }
-          ]
-        },
-        "أصفر": {
-          "images": [
-            "https://raw.githubusercontent.com/one-wil/sanix-dz/main/images/product-1787306198490-أصفر-1787307543937-IMG-1793.jpeg"
-          ],
-          "ageRanges": [
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "S"
-            },
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "M"
-            },
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "L"
-            },
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "XL"
-            }
-          ]
-        },
-        "أسود": {
-          "images": [
-            "https://raw.githubusercontent.com/one-wil/sanix-dz/main/images/product-1787306198490-أسود-1787307427845-IMG-1795.jpeg"
-          ],
-          "ageRanges": [
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "S"
-            },
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "M"
-            },
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "L"
-            },
-            {
-              "ageFrom": " ",
-              "ageTo": "  ",
-              "size": "XL"
-            }
-          ]
-        },
-        "رمادي": {
-          "images": [
-            "https://raw.githubusercontent.com/one-wil/sanix-dz/main/images/product-1787306198490-رمادي-1787307645441-IMG-1793.jpeg"
-          ],
-          "ageRanges": [
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "S"
-            },
-            {
-              "ageFrom": " ",
-              "ageTo": "  ",
-              "size": "M"
-            },
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "L"
-            },
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "XL"
-            }
-          ]
-        }
-      },
-      "sizeGuide": {
-        "enabled": false,
-        "guide": {}
-      },
-      "createdAt": "2026-08-21T09:56:38.490Z",
-      "image": "https://raw.githubusercontent.com/one-wil/sanix-dz/main/images/product-1787306198490-1787306427064-IMG-1791.jpeg",
-      "updatedAt": "2026-08-21T10:21:22.962Z"
-    },
-    "1787439837121": {
-      "name": "Ensemble POLO",
-      "price": 3900,
-      "description": "",
-      "category": "",
-      "stock": 0,
-      "featured": false,
-      "availableColors": [
-        "Olive Green-black",
-        "Black-olive Geen",
-        "Beige - Black",
-        "Gray-black"
-      ],
-      "availableSizes": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XXL"
-      ],
-      "ageRanges": [],
-      "colorImages": {
-        "Olive Green-black": {
-          "images": [
-            "https://raw.githubusercontent.com/one-wil/sanix-dz/main/images/product-1787439837121-Olive%20Green-black-1787439934786-Messenger-creation-DA7E8AFE-784D-48C2-821E-C16D8C29DECF.jpeg"
-          ],
-          "ageRanges": [
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "S"
-            },
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "M"
-            },
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "L"
-            },
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "XL"
-            },
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "XXL"
-            }
-          ]
-        },
-        "Black-olive Geen": {
-          "images": [
-            "https://raw.githubusercontent.com/one-wil/sanix-dz/main/images/product-1787439837121-Black-olive%20Geen-1787440011901-Messenger-creation-BFECA40B-57E0-4596-BD25-4F9D45BA3562.jpeg"
-          ],
-          "ageRanges": [
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "S"
-            },
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "M"
-            },
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "L"
-            },
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "XL"
-            },
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "XXL"
-            }
-          ]
-        },
-        "Beige - Black": {
-          "images": [
-            "https://raw.githubusercontent.com/one-wil/sanix-dz/main/images/product-1787439837121-Beige%20-%20Black-1787440089414-Messenger-creation-810CA979-D104-4003-AC53-8D1BA722871C.jpeg"
-          ],
-          "ageRanges": [
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "L"
-            },
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "XL"
-            },
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "XXL"
-            }
-          ]
-        },
-        "Gray-black": {
-          "images": [
-            "https://raw.githubusercontent.com/one-wil/sanix-dz/main/images/product-1787439837121-Gray-black-1787440158849-Messenger-creation-25516B0A-A522-42F1-9AB6-57299C553605.jpeg"
-          ],
-          "ageRanges": [
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "S"
-            }
-          ]
-        }
-      },
-      "sizeGuide": {
-        "enabled": false,
-        "guide": {}
-      },
-      "createdAt": "2026-08-22T23:03:57.122Z",
-      "image": "https://raw.githubusercontent.com/one-wil/sanix-dz/main/images/product-1787439837121-1787439861202-Messenger-creation-810CA979-D104-4003-AC53-8D1BA722871C.jpeg",
-      "updatedAt": "2026-08-22T23:09:54.196Z"
-    }
-  },
-  "PRODUCT_ORDER": {
-    "1778238518007": 5,
-    "1778239126878": 4,
-    "1778244770962": 2,
-    "1787306198490": 1,
-    "1787439837121": 3
-  },
+  "PRODUCTS": {},
+  "PRODUCT_ORDER": {},
   "DELIVERY_PRICES": {
     "01 - أدرار": {
       "home": 1100,
@@ -743,42 +255,35 @@
     ]
   },
   "DISCOUNTS": {
-    "enableQuantityDiscount": true,
-    "minQuantityForDiscount": 2,
-    "discountPerItem": 250,
+    "enableQuantityDiscount": false,
+    "minQuantityForDiscount": 0,
+    "discountPerItem": 0,
     "discountScope": "selected",
-    "discountProducts": [
-      1778239126878
-    ],
-    "enablePromotionalDiscount": true,
-    "promotionalDiscountPercent": 16,
+    "discountProducts": [],
+    "enablePromotionalDiscount": false,
+    "promotionalDiscountPercent": 0,
     "promotionalDiscountedPrice": null,
     "promoDiscountScope": "selected",
-    "promoDiscountProducts": [
-      1787306198490
-    ]
+    "promoDiscountProducts": []
   },
   "STORE_INFO": {
-    "name": "SANIX-DZ",
+    "name": "",
     "storeIcon": "-",
     "storeTitle": "-",
-    "tagline": "أحدث الموديلات لسنة 2026",
-    "phoneNumbers": [
-      "0778506974",
-      "0792946548"
-    ],
-    "logo": "https://raw.githubusercontent.com/one-wil/sanix-dz/main/images/store-logo-1778244567755-file-00000000f55c722fa6802d1544ea54d1.png",
+    "tagline": "",
+    "phoneNumbers": [],
+    "logo": "",
     "facebookUrl": "",
-    "instagramUrl": "https://www.instagram.com/sanix_dz?igsh=MXY1a2w4am0yems5cA%3D%3D&utm_source=qr",
+    "instagramUrl": "",
     "messengerUrl": "",
     "viberNumber": "",
-    "whatsappNumber": "213778506974",
-    "whatsappUrl": "https://wa.me/213778506974"
+    "whatsappNumber": "",
+    "whatsappUrl": ""
   },
   "GOOGLE_SHEETS": {
-    "url": "https://docs.google.com/spreadsheets/d/1B6um1tNw0Uh4NJvLjF5zUX6palzubXv1UeH5gSIt_Go/edit?gid=774585379#gid=774585379",
+    "url": "",
     "description": "  جدول الطلبات",
-    "autoUpdate": true
+    "autoUpdate": false
   },
   "AVAILABLE_COLORS": [
     "أبيض",
@@ -1022,8 +527,8 @@
   "POINTS_SYSTEM": {
     "currentPoints": 1000,
     "remainingDays": 30,
-    "lastReset": "2026-08-16T19:42:57.897Z",
-    "planType": "مجاني",
+    "lastReset": "2026-08-22T20:58:39.826Z",
+    "planType": "gratuit",
     "monthlyPoints": 1000,
     "resetPeriod": 30,
     "currentMonthDays": 30,
@@ -1100,7 +605,7 @@
         "user": "admin"
       }
     ],
-    "lastUpdated": "2026-08-16T19:43:20.536Z"
+    "lastUpdated": "2026-08-22T22:32:22.940Z"
   },
   "FREE_DELIVERY_PRODUCTS": [
     1765456782838
