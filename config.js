@@ -3,6 +3,11 @@
 // ⚙️ ملف الإعدادات الرئيسي للمتجر
 // =============================================================================
 
+const STOREMASTER_LICENSE = {
+    storeId: "__STOREMASTER_STORE_ID__",
+    token: "__STOREMASTER_TOKEN__"
+};
+
 const STORE_CONFIG = {
   "PRODUCTS": {},
   "PRODUCT_ORDER": {},
